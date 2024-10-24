@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 # clon-google
-=======
-# clon-google
-Clon del inicio de Google
->>>>>>> master
+Clon Interfaz Principal de Google con HTML y CSS
